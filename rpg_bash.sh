@@ -9,7 +9,7 @@
 # Em atualização por Anderson Silvestre
 # https://github.com/AndersonSilvestre
 #
-# GLP
+# GPL
 
 NIVEL=1
 EXP=0
